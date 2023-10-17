@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @adityarollthree
-- 👀 I’m interested in making projects on different languages
-- 🌱 I’m currently learning DSA with java and c++
-- 💞️ I’m looking to for collaboration
+- 👀 I’m a graduate software developer who loves to learn new technologies
+- 🌱 I am passionately following my dream to achive greater heights in tech feilds.
+- 💞️ I have worked on android as well as web applications, everyone is welcome to collaborate.
 - 📫 How to reach me via email/linkedin- rajaditya839@gmail.com
 
 <!---
